@@ -71,4 +71,4 @@ Contact
 
 GitHub Repository
 
-The code for this project is available on GitHub at <repository-url>. Please ensure open access for reviewers to access the code.
+The code for this project is available on GitHub at <https://github.com/Ravibudumuru/HeartRateMonitor>. Please ensure open access for reviewers to access the code.
